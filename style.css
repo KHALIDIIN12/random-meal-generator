@@ -5,13 +5,18 @@ font-size:medium;
 }
 
 .genrbutton{
-
 border-radius: 12px;
 padding: 10px 12px;
 background-color: black;
 color: antiquewhite;
 font-size: medium;
 cursor: pointer;
+}
+
+.genrbutton:hover {
+  background-color: #333; 
+  color: bisque;          
+  transition: background-color 0.2s ease-in-out;
 }
 
 
