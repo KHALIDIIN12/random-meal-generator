@@ -44,3 +44,11 @@ p {
   max-width: 700px;
   margin: 0 auto 15px;
 }
+
+#fun-fact {
+  margin-top: 20px;
+  font-style: italic;
+  background-color: #fdf4e3;
+  padding: 10px;
+  border-radius: 8px;
+}
